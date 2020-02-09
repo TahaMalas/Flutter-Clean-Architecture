@@ -1,0 +1,18 @@
+{
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "invalid_email": "البريد الإلكتروني غير صحيح",
+  "invalid_password": "كلمة المرور الخاصة بك يجب أن تكون أكثر من ٨ محارف",
+  "remember_me": "تذكر حسابي",
+  "forgot_password": "نسيت كلمة المرور؟",
+  "login": "تسجيل الدخول",
+  "or": "أو",
+  "register": "أنشأ حساب",
+  "continue_as_guest": "تابع كزائر",
+  "cancel": "إغلاق",
+  "future_version": "in future versions",
+  "future_version_content": "In a real app we should navigate to another page",
+  "not_implemented": "not implemented",
+  "not_implemented_content": "This feature is not yet implemented",
+  "close": "Close"
+}

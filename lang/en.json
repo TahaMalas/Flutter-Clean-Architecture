@@ -1,0 +1,18 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "invalid_email": "Your email is not correct",
+  "invalid_password": "Your password must be at least 8 alphanumeric characters",
+  "remember_me": "Remember me",
+  "forgot_password": "Forgot password?",
+  "login": "LOGIN",
+  "or": "OR",
+  "register": "SIGNUP",
+  "continue_as_guest": "Continue as guest",
+  "cancel": "Cancel",
+  "future_version": "in future versions",
+  "future_version_content": "In a real app we should navigate to another page",
+  "not_implemented": "not implemented",
+  "not_implemented_content": "This feature is not yet implemented",
+  "close": "Close"
+}

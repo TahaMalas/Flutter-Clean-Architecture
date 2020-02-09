@@ -1,0 +1,21 @@
+{
+  "status": true,
+  "message": "Login success",
+  "data": {
+    "id": 5,
+    "name": "Taha",
+    "email": "taha@user.com",
+    "social_token": null,
+    "fcm_token": "token",
+    "role": 5,
+    "region_id": 1,
+    "address": "321321",
+    "picture": null,
+    "phone_number": "312321321321",
+    "status": 1,
+    "created_at": "2019-11-05 22:40:39",
+    "updated_at": "2019-12-10 19:29:08",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjdiN2E0MjMyYmYyMTc3NmQwOTE5MGU2OWVjNmQ0YTY3NWNlMjBkMmI2OWJkMmI0NjAzZjcxZDk5ODM0NDg0ZDBkYWIyMDQxZjkyMWExZGEwIn0.eyJhdWQiOiIxIiwianRpIjoiN2I3YTQyMzJiZjIxNzc2ZDA5MTkwZTY5ZWM2ZDRhNjc1Y2UyMGQyYjY5YmQyYjQ2MDNmNzFkOTk4MzQ0ODRkMGRhYjIwNDFmOTIxYTFkYTAiLCJpYXQiOjE1NzYwMDYxNzksIm5iZiI6MTU3NjAwNjE3OSwiZXhwIjoxNjA3NjI4NTc5LCJzdWIiOiI1Iiwic2NvcGVzIjpbXX0.OEOmcbJ7hFzfPNnQzfqt7Luil4gOfrud32kuN28tYR9PRZLj9mpqMJZHmLOW6qRlLQEX2zLsProifqXFFWWeBEgprUGW0oAGb_lzw6SPz8AaWbPHNNUR_4zkio6HiTkKAFCMfZUbnExl0WwoVihKVTXzuikBiuAqdpyhUT63Khhrbq0t4vDOqke9qTpX2v3wBNBubh0Eu3x-r95gk678dlcI7Bo975iHpYU5hNPYBALeE7OEh1ptaue2NGgHWw35rZeky0zJUHBperEYftuihXCzoG902Z_Ur_Z_tt-lbbmnC59xd4vj3tITfgAN3ZlVBpCf0FVUtDabkQtKfC_XmtecU0OAWovzNrvmo2YDpaizcolOJhendFr4rpx51FOnSJE-nlfU96XUXBhNOgh_fsIKWpbyhA3fM_dBUZW1l0CuKHr4mFGTb66lArfy1Fcpu63_bXohC7Qzbf1U45SYeuhWL580nxXSvGvzufLkmtlRwvhwN8-JbVdDcovpRHD_PL3Txn3L2nHs-Afta7WULSuX0biSulFjYRMR6D9nMFCE4CU4EBYUhYh-w0kH-80Y8jbLJq5usDHfMGKx-66eB33sDTM6zMIR8PmT5vz4JY1NT5XKll7II8PGcdFwjGGdoe64uK6mSnIU5vDpLEKoNve-BTXuxZ9awmk9csxnjiY",
+    "area": "test"
+  }
+}
